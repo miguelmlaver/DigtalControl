@@ -1,19 +1,30 @@
-# Titulo de la clase
-El título de cada clase, correspondiente al tema general que se trabaje en clase. Siempre después de cada título de clase, redactar una breve introducción (mínimo un párrafo) que de una mirada general al tema
-## 1. Subtítulos
-Agregue todos los subtítulos que considere necesarios para estructurar el contenido de la clase. Es importante que considere jerarquías de los temas para definir el orden de estos subtítulos. Cada subtítulo debe ir numerado como una sección, de la manera en que lo presenta esta plantilla
+# Control Digital
+Se hace una breve introduccion de por que se el control digital dando comparacion con la aplicacion con control analgo, en exactitud, errores de implementacion, flexibilidad, velocidad y costos, tambien se hace una retroalimentacion de lo visto en los cursos anteriores de control.
+
+Abarcamos brevemente la estructura de bloques en control digital, y se empieza la explicacion de el procedimiento para la conversion analoga digital
+## 1. ¿Por que control digital.?
+## 1.2. Convercion analogico a igital
+## 1.2.1. Procedimiento de conversion
+## 1.2.1.1 Muestreo
+## 1.2.1.2 Cuantizacion
+## 1.2.1.3 Codificacion
+## 1.3. Conversor digital/analogico
+## 1.3.1. Resolucion DAC
+## 1.3.2. Metodos de conversion
+## 1.4 Modelo matematico
 
 ## 2. Definiciones
-Utilice el símbolo '>' para crear bloques de texto. En la presente plantilla estas cajas están reservadas para resaltar las definiciones, las cuales deben ser breves, y la palabra o frase que se está definiendo debe estar en letra itálica. El inicio del bloque de texto debe realizarse con el emoji 🔑 .
->🔑 *Definición:* descripción precisa y clara del significado de una palabra, término, concepto o fenómeno. Es una explicación que establece los límites y el alcance de aquello que se está definiendo, aclarando su naturaleza, características esenciales y, en algunos casos, su relación con otros conceptos.
+>🔑*Muestreo:* medir valores cada cierto tiempo, entre mas alta sea la tasa de muestras mas informaciom se procesa y si es muy baja se pierde informacion.
+>
+>🔑*Cuantizacion:* procesa las señales para reducir la cantidad de datos necesarios para representar una señal.
+>
+>🔑*Codificacion:* se asignan numeros binarios a cada valor de la cuantizacion.
 
-## 3. Subsecciones
-Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
-### 3.1. Título de subsecciones
-Para la creación de estas subsecciones debe utilizar un tamaño de letra más pequeño, por lo tanto utilice la etiqueta '###' 
-### 3.2. Numeración de subsecciones
-Siga la numeración de la sección seguida de un punto y luego el número de la subsección.
 
+## 3. Metodos de conversioan
+### 3.1 Resistencias ponderadas:
+se utilizan para controlar y ajustar la tension y corriente de circuitos, su configuracion es muy facil pero no es muy exacta
+ 
 ## 4. Ejemplos
 Si en algún caso pretende dar un ejemplo explicativo ya sea a través de texto o através de ecuaciones matemáticos, utilizar la palabra 'Ejemplo' seguido de una numeración consecutiva dentro de la clase. Utilice el emoji 💡 antecediendo la palabra.
 
