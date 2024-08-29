@@ -1,8 +1,6 @@
 # Control Digital
-Se hace una breve introduccion de por que se el control digital dando comparacion con la aplicacion con control analgo, en exactitud, errores de implementacion, flexibilidad, velocidad y costos, tambien se hace una retroalimentacion de lo visto en los cursos anteriores de control.
-
-Abarcamos brevemente la estructura de bloques en control digital, y se empieza la explicacion de el procedimiento para la conversion analoga digital
-## 1. ¿Por que control digital.?
+Se hace una breve introduccion de  el control digital dando comparacion con la aplicacion con control analgo, en exactitud, errores de implementacion, flexibilidad, velocidad y costos, tambien se hace una retroalimentacion de lo visto en los cursos anteriores de control. Tambien se abarca brevemente la estructura de bloques en control digital, y se empieza la explicacion de el procedimiento para la conversion analoga digital y viceversa.
+## 1. ¿Por que control digital?.
 ## 1.2. Convercion analogico a igital
 ## 1.2.1. Procedimiento de conversion
 ## 1.2.1.1 Muestreo
