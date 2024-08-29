@@ -1,11 +1,18 @@
-# Titulo de la clase
-El título de cada clase, correspondiente al tema general que se trabaje en clase. Siempre después de cada título de clase, redactar una breve introducción (mínimo un párrafo) que de una mirada general al tema
-## 1. Subtítulos
-Agregue todos los subtítulos que considere necesarios para estructurar el contenido de la clase. Es importante que considere jerarquías de los temas para definir el orden de estos subtítulos. Cada subtítulo debe ir numerado como una sección, de la manera en que lo presenta esta plantilla
+# Transformada Z de adelantos y atrasos
+Inicialmente se hace el desarrollo de un ejemplo de ecuaciones en diferencia, estas representan un cmprortamiento dinamico de un sistema en terminos de seañles de entrada y salida donde estas pueden ser ecuaciones homogeneas, lineales, invariantes en el tiempo. nos muestran los metodos de solucion los cuales son el metodo iterativo y transformada Z. De esta ultima vemos una similitud con la transformada de laplace.
+## 1. Ecuaciones en diferencia
+## 1.1 Metodos iterativos
+## 1.2 Transformada Z
+## 1.2.1 Transformada Z de un atraso
+## 1.2.2 Transformada Z de un adelanto
 
 ## 2. Definiciones
-Utilice el símbolo '>' para crear bloques de texto. En la presente plantilla estas cajas están reservadas para resaltar las definiciones, las cuales deben ser breves, y la palabra o frase que se está definiendo debe estar en letra itálica. El inicio del bloque de texto debe realizarse con el emoji 🔑 .
->🔑 *Definición:* descripción precisa y clara del significado de una palabra, término, concepto o fenómeno. Es una explicación que establece los límites y el alcance de aquello que se está definiendo, aclarando su naturaleza, características esenciales y, en algunos casos, su relación con otros conceptos.
+>🔑 *Ecuaciones en diferencia:* relacionan los valores de una secuencia en diferentes estantes de tiempo, representa el comportamiento dinamico de un sistema en treminos de sus señales de entrada y salida
+>
+>🔑*metodo iterativo:* Es un enfoque para resolver problemas matematicos y ecuaciones mediante la repeticion de un proceso
+> 
+>🔑*Transformada Z:* Es una herramienta fundamental en el analisis y procesamiento de señales y sistemas en el dominio de la frecuencia
+>
 
 ## 3. Subsecciones
 Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
@@ -73,4 +80,4 @@ Deben agregar 2 ejercicios con su respectiva solución, referentes a los temas t
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
 ## 11. Referencias
-Agregue un subtítulo al final donde pueda poner todas las referencias consultadas incluyendo el origen o fuente de los ejercicios planteados. Tambien dentro del texto referencie los textos o artículos consultados y las figuras y tablas dentro de la explicación de las mismas.
+
