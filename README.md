@@ -24,7 +24,13 @@ Abarcamos brevemente la estructura de bloques en control digital, y se empieza l
 ## 3. Metodos de conversioan
 ### 3.1 Resistencias ponderadas:
 se utilizan para controlar y ajustar la tension y corriente de circuitos, su configuracion es muy facil pero no es muy exacta
- 
+ ![](images/plantilla/rp.png)
+
+Figura 1. resistencias ponderadas
+### 3.1.2 Red escalera R-2R
+Es  efectiva para la convercion digital-analogica ofreciendo una mejor precision, su configuracion en mas comploicada
+
+
 ## 4. Ejemplos
 Si en algún caso pretende dar un ejemplo explicativo ya sea a través de texto o através de ecuaciones matemáticos, utilizar la palabra 'Ejemplo' seguido de una numeración consecutiva dentro de la clase. Utilice el emoji 💡 antecediendo la palabra.
 
@@ -43,9 +49,9 @@ Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las
 
 💡**Ejemplo 2:**
 
-![Figura de prueba](images/plantilla/Captura2.PNG)
+![](images/plantilla/rp.png)
 
-Figura 1. Figura de prueba
+Figura 1. resistencias ponderadas
 
 Incluya la respectiva etiqueta a modo de descripción de la figura y mantenga numeración consecutiva para todas las figuras de la clase.
 
