@@ -1,13 +1,28 @@
 # Control Digital
 Se hace una breve introduccion de  el control digital dando comparacion con la aplicacion con control analgo, en exactitud, errores de implementacion, flexibilidad, velocidad y costos, tambien se hace una retroalimentacion de lo visto en los cursos anteriores de control. Tambien se abarca brevemente la estructura de bloques en control digital, y se empieza la explicacion de el procedimiento para la conversion analoga digital y viceversa.
-## 1. ¿Por que control digital?.
+## 1. ¿Por que control digital?
+-> Es mas exacta que la señal analogica
+-> Errores de implementacion:Se puede hacer cambio en el codigo mientras que en la analogica se cambian los componentes
+-> Es mas flexible
+-> en velocidad la tecnologia analogica es mejor que la velocidad de la digital
+-> reduce los costos ya que cambia el codigo mas no el componente
 ## 1.2. Convercion analogico a igital
 ## 1.2.1. Procedimiento de conversion
 ## 1.2.1.1 Muestreo
+Es medir valores de voltaje cada cierto tiempo, su unidad es en Hz y puede ser periodico de tasa multiple o aleatorio
 ## 1.2.1.2 Cuantizacion
+La señal analogica se convierte en una serie de valores que coresponde a cada una de las medidas tomadas en el muestreio
 ## 1.2.1.3 Codificacion
+se asigna valores de tipo binario a cada uno de los valores de la cuantizacion 
+## 1.2.1.4 Tiempos de muestreo
+ta(tiempo de adquisicion): es el tiempo transcurrido desde la orden de muestreo hasta un margen de tolerancia, este es ajustable
+
+tp(tiempo de apertura): : el tiempo que transcurre desde que se inicia la retención hasta que abre el muestreador, es ajustable
+
+ts(tiempo de establecimiento):El tiempo necesario para que la oscilación desaparezca se conoce como tiempo de establecimiento, no es ajustable
 ## 1.3. Conversor digital/analogico
 ## 1.3.1. Resolucion DAC
+la resolucion depende de los bits de representacion
 ## 1.3.2. Metodos de conversion
 ## 1.4 Modelo matematico
 
